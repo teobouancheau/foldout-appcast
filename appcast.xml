@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Foldout</title>
+    <item>
+      <title>Version 7.76.0</title>
+      <sparkle:version>1642</sparkle:version>
+      <sparkle:shortVersionString>7.76.0</sparkle:shortVersionString>
+      <pubDate>Sun, 19 Jul 2026 16:17:32 +0200</pubDate>
+      <enclosure
+        url="https://api.github.com/repos/teobouancheau/foldout-app/releases/assets/482449617"
+        sparkle:edSignature="Szn/7s/O0OqY93aNaaYbnULNxbdnkUM8M+HFcRoDPywMpAfIQ8NK1bcE++S/QDb46fAeuwTMbMRSCvYcLkEiDA==" length="21553676"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
