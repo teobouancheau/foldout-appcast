@@ -3,13 +3,13 @@
   <channel>
     <title>Foldout</title>
     <item>
-      <title>Version 7.103.0</title>
-      <sparkle:version>7103000</sparkle:version>
-      <sparkle:shortVersionString>7.103.0</sparkle:shortVersionString>
-      <pubDate>Sun, 02 Aug 2026 15:39:37 +0200</pubDate>
+      <title>Version 7.104.0</title>
+      <sparkle:version>7104000</sparkle:version>
+      <sparkle:shortVersionString>7.104.0</sparkle:shortVersionString>
+      <pubDate>Tue, 04 Aug 2026 14:07:02 +0200</pubDate>
       <enclosure
-        url="https://api.github.com/repos/teobouancheau/foldout-app/releases/assets/498933561"
-        sparkle:edSignature="HX9CyOrvrjoYw9Oo7MS81XmCQ8lQ75Jrd9ijJmBr2VCfVr16KJ5hJAYuLmSMh5CXqasJYn187LnWMGEt4ZIxAQ==" length="25579172"
+        url="https://api.github.com/repos/teobouancheau/foldout-app/releases/assets/501298615"
+        sparkle:edSignature="cATQeMPlP7cojq/yoU5CnmhVMvD5fZSt3IBxYXjV/rVGaQWZBYl7zwKKPGQAECpI9KP39nN9KbuLETNI3j1rCg==" length="25603986"
         type="application/octet-stream"
       />
     </item>
